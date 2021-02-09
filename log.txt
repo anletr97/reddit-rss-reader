@@ -1,0 +1,273 @@
+2021/02/09 10:02:02 AM [INFO ] Start GET REDDIT RSS
+2021/02/09 10:02:03 AM [INFO ] Start Sending message
+2021/02/09 10:02:07 AM [INFO ] Start Sending message
+2021/02/09 10:02:08 AM [INFO ] Start Sending message
+2021/02/09 10:02:08 AM [INFO ] Start Sending message
+2021/02/09 10:02:09 AM [INFO ] Start Sending message
+2021/02/09 10:02:09 AM [INFO ] Start Sending message
+2021/02/09 10:02:10 AM [INFO ] Start Sending message
+2021/02/09 10:02:12 AM [INFO ] Start Sending message
+2021/02/09 10:02:13 AM [INFO ] Start Sending message
+2021/02/09 10:02:13 AM [INFO ] Start Sending message
+2021/02/09 10:02:14 AM [INFO ] Start Sending message
+2021/02/09 10:02:15 AM [INFO ] Start Sending message
+2021/02/09 10:12:22 AM [INFO ] Start GET REDDIT RSS
+2021/02/09 10:12:23 AM [INFO ] Start Sending message
+2021/02/09 10:12:26 AM [INFO ] Start Sending message
+2021/02/09 10:13:13 AM [INFO ] Start GET REDDIT RSS
+2021/02/09 10:13:14 AM [INFO ] Start Sending message
+2021/02/09 10:13:18 AM [INFO ] Start Sending message
+2021/02/09 10:14:01 AM [INFO ] Start GET REDDIT RSS
+2021/02/09 10:14:03 AM [INFO ] Start Sending message
+2021/02/09 10:14:04 AM [INFO ] Start Sending message
+2021/02/09 10:14:05 AM [INFO ] Start Sending message
+2021/02/09 10:14:05 AM [INFO ] Start Sending message
+2021/02/09 10:14:06 AM [INFO ] Start Sending message
+2021/02/09 10:14:06 AM [INFO ] Start Sending message
+2021/02/09 10:14:07 AM [INFO ] Start Sending message
+2021/02/09 10:14:07 AM [INFO ] Start Sending message
+2021/02/09 12:01:30 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 12:01:31 PM [ERROR] module 'redis' has no attribute 'get'
+2021/02/09 12:01:31 PM [INFO ] End GET REDDIT RSS
+2021/02/09 12:08:06 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 12:08:07 PM [ERROR] 'RedditRss' object has no attribute 'redis'
+2021/02/09 12:08:07 PM [INFO ] End GET REDDIT RSS
+2021/02/09 12:35:28 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 12:35:28 PM [ERROR] Redis URL must specify one of the following schemes (redis://, rediss://, unix://)
+2021/02/09 12:35:28 PM [INFO ] End GET REDDIT RSS
+2021/02/09 12:37:32 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 12:37:34 PM [INFO ] End GET REDDIT RSS
+2021/02/09 12:41:11 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 12:41:12 PM [ERROR] Invalid input of type: 'datetime'. Convert to a bytes, string, int or float first.
+2021/02/09 12:41:13 PM [ERROR] Invalid input of type: 'datetime'. Convert to a bytes, string, int or float first.
+2021/02/09 12:41:13 PM [INFO ] End GET REDDIT RSS
+2021/02/09 05:08:40 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:41 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] Start Sending message
+2021/02/09 05:08:42 PM [INFO ] End GET REDDIT RSS
+2021/02/09 05:08:54 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:55 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] Start Sending message
+2021/02/09 05:08:56 PM [INFO ] End GET REDDIT RSS
+2021/02/09 05:13:55 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:13:57 PM [INFO ] End GET REDDIT RSS
+2021/02/09 05:14:57 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:15:00 PM [INFO ] End GET REDDIT RSS
+2021/02/09 05:17:16 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:17:16 PM [INFO ] Start Read rss
+2021/02/09 05:17:17 PM [INFO ] Start Read rss
+2021/02/09 05:17:18 PM [INFO ] End GET REDDIT RSS
+2021/02/09 05:19:05 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:19:05 PM [INFO ] Start Read rss
+2021/02/09 05:19:06 PM [ERROR] can only concatenate str (not "datetime.datetime") to str
+2021/02/09 05:19:06 PM [INFO ] Start Read rss
+2021/02/09 05:19:08 PM [ERROR] can only concatenate str (not "datetime.datetime") to str
+2021/02/09 05:19:08 PM [INFO ] End GET REDDIT RSS
+2021/02/09 05:19:39 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:19:39 PM [INFO ] Start Read rss
+2021/02/09 05:19:41 PM [ERROR] can only concatenate str (not "datetime.datetime") to str
+2021/02/09 05:19:41 PM [INFO ] Start Read rss
+2021/02/09 05:19:42 PM [ERROR] can only concatenate str (not "datetime.datetime") to str
+2021/02/09 05:19:42 PM [INFO ] End GET REDDIT RSS
+2021/02/09 05:22:34 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:22:34 PM [INFO ] Start Read rss
+2021/02/09 05:22:35 PM [ERROR] can only concatenate str (not "datetime.datetime") to str
+2021/02/09 05:22:35 PM [INFO ] Start Read rss
+2021/02/09 05:22:36 PM [ERROR] can only concatenate str (not "datetime.datetime") to str
+2021/02/09 05:22:36 PM [INFO ] End GET REDDIT RSS
+2021/02/09 05:22:57 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:22:57 PM [INFO ] Start Read rss
+2021/02/09 05:22:58 PM [INFO ] Start Read rss
+2021/02/09 05:22:59 PM [INFO ] End GET REDDIT RSS
+2021/02/09 05:23:15 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:23:15 PM [INFO ] Start Read rss
+2021/02/09 05:23:16 PM [INFO ] Start Read rss
+2021/02/09 05:23:18 PM [INFO ] End GET REDDIT RSS
+2021/02/09 05:23:29 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:23:29 PM [INFO ] Start Read rss
+2021/02/09 05:23:30 PM [INFO ] Start Read rss
+2021/02/09 05:23:31 PM [INFO ] End GET REDDIT RSS
+2021/02/09 05:24:08 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:24:08 PM [INFO ] Start Read rss
+2021/02/09 05:24:09 PM [INFO ] Start Read rss
+2021/02/09 05:24:10 PM [INFO ] End GET REDDIT RSS
+2021/02/09 05:25:20 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:25:20 PM [INFO ] Start Read rss
+2021/02/09 05:25:21 PM [INFO ] Start Sending message
+2021/02/09 05:25:22 PM [INFO ] Start Sending message
+2021/02/09 05:25:23 PM [INFO ] Start Sending message
+2021/02/09 05:25:23 PM [INFO ] Start Sending message
+2021/02/09 05:25:24 PM [INFO ] Start Sending message
+2021/02/09 05:25:24 PM [INFO ] Start Sending message
+2021/02/09 05:25:25 PM [INFO ] Start Sending message
+2021/02/09 05:25:25 PM [INFO ] Start Sending message
+2021/02/09 05:25:26 PM [INFO ] Start Sending message
+2021/02/09 05:25:26 PM [INFO ] Start Sending message
+2021/02/09 05:25:27 PM [INFO ] Start Sending message
+2021/02/09 05:25:27 PM [INFO ] Start Sending message
+2021/02/09 05:25:28 PM [INFO ] Start Sending message
+2021/02/09 05:25:28 PM [INFO ] Start Sending message
+2021/02/09 05:25:28 PM [INFO ] Start Sending message
+2021/02/09 05:25:29 PM [INFO ] Start Sending message
+2021/02/09 05:25:29 PM [INFO ] Start Sending message
+2021/02/09 05:25:30 PM [INFO ] Start Sending message
+2021/02/09 05:25:30 PM [INFO ] Start Sending message
+2021/02/09 05:25:31 PM [INFO ] Start Sending message
+2021/02/09 05:25:31 PM [INFO ] Start Sending message
+2021/02/09 05:25:32 PM [INFO ] Start Sending message
+2021/02/09 05:25:32 PM [INFO ] Start Sending message
+2021/02/09 05:25:33 PM [INFO ] Start Sending message
+2021/02/09 05:25:33 PM [INFO ] Start Sending message
+2021/02/09 05:25:34 PM [INFO ] Start Read rss
+2021/02/09 05:25:35 PM [INFO ] Start Sending message
+2021/02/09 05:25:35 PM [INFO ] Start Sending message
+2021/02/09 05:25:36 PM [INFO ] Start Sending message
+2021/02/09 05:25:36 PM [INFO ] Start Sending message
+2021/02/09 05:28:06 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:28:06 PM [INFO ] Start Read rss
+2021/02/09 05:28:07 PM [INFO ] Start Sending message
+2021/02/09 05:28:08 PM [INFO ] Start Sending message
+2021/02/09 05:28:08 PM [INFO ] Start Sending message
+2021/02/09 05:28:09 PM [INFO ] Start Sending message
+2021/02/09 05:28:09 PM [INFO ] Start Sending message
+2021/02/09 05:28:10 PM [INFO ] Start Sending message
+2021/02/09 05:28:10 PM [INFO ] Start Sending message
+2021/02/09 05:28:11 PM [INFO ] Start Sending message
+2021/02/09 05:28:11 PM [INFO ] Start Sending message
+2021/02/09 05:29:48 PM [INFO ] Start GET REDDIT RSS
+2021/02/09 05:29:48 PM [INFO ] Start Read rss
+2021/02/09 05:29:49 PM [INFO ] Start Read rss
+2021/02/09 05:29:51 PM [INFO ] End GET REDDIT RSS
+2021/02/09 06:37:43 PM [INFO ] Start reading rss
+2021/02/09 06:37:44 PM [INFO ] Start reading rss
+2021/02/09 07:15:46 PM [INFO ] Start Execute reddit task
+2021/02/09 07:15:46 PM [ERROR] 'dict' object has no attribute 'read_rss'
+2021/02/09 07:16:27 PM [INFO ] Start Execute reddit task
+2021/02/09 07:16:27 PM [ERROR] 'dict' object is not callable
+2021/02/09 07:17:33 PM [INFO ] Start Execute reddit task
+2021/02/09 07:17:33 PM [INFO ] Start reading rss
+2021/02/09 07:17:34 PM [INFO ] Start sending message
+2021/02/09 07:17:36 PM [INFO ] Start sending message
+2021/02/09 07:17:36 PM [INFO ] Start sending message
+2021/02/09 07:17:36 PM [INFO ] Start sending message
+2021/02/09 07:17:37 PM [INFO ] Start sending message
+2021/02/09 07:17:37 PM [INFO ] Start sending message
+2021/02/09 07:17:38 PM [INFO ] Start sending message
+2021/02/09 07:17:38 PM [INFO ] Start sending message
+2021/02/09 07:17:39 PM [INFO ] Start sending message
+2021/02/09 07:17:39 PM [INFO ] Start sending message
+2021/02/09 07:17:40 PM [INFO ] Start sending message
+2021/02/09 07:21:43 PM [INFO ] Start Execute reddit task
+2021/02/09 07:21:43 PM [INFO ] Start reading rss
+2021/02/09 07:21:44 PM [INFO ] Start sending message
+2021/02/09 07:21:49 PM Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x7f4a1bc42820>, 'Connect timed out. (connect timeout=5.0)')': /bot1598408251:AAFqR7baS2CSrXHAj-0ayWw4CrqH35Hm6bQ/sendMessage
+2021/02/09 07:21:50 PM [INFO ] Start sending message
+2021/02/09 07:21:51 PM [INFO ] Start sending message
+2021/02/09 07:21:51 PM [INFO ] Start sending message
+2021/02/09 07:21:52 PM [INFO ] Start sending message
+2021/02/09 07:21:52 PM [INFO ] Start sending message
+2021/02/09 07:21:53 PM [INFO ] Start sending message
